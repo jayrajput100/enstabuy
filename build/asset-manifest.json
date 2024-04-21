@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68c7fbdf.css",
+    "main.js": "/static/js/main.c11f839c.js",
+    "static/js/453.8562dc00.chunk.js": "/static/js/453.8562dc00.chunk.js",
+    "static/media/testtab.jpg": "/static/media/testtab.029f69ee2be2d746ce2d.jpg",
+    "static/media/personalcare2.jpg": "/static/media/personalcare2.b2478a3ce4736032cfc9.jpg",
+    "static/media/personalcare4.jpg": "/static/media/personalcare4.b2478a3ce4736032cfc9.jpg",
+    "static/media/home2.jpg": "/static/media/home2.cf579d612d81622a2a20.jpg",
+    "static/media/watch4.jpg": "/static/media/watch4.d1e4b89c6347016bab13.jpg",
+    "static/media/personalcare1.jpg": "/static/media/personalcare1.8cb6618d12b91b9f19c6.jpg",
+    "static/media/personalcare3.jpg": "/static/media/personalcare3.230c407072a595c6418f.jpg",
+    "static/media/home4.jpg": "/static/media/home4.b4f950269bde336bacf7.jpg",
+    "static/media/watch1.jpg": "/static/media/watch1.0afe1adfab208af8fbd3.jpg",
+    "static/media/watch3.jpg": "/static/media/watch3.0afe1adfab208af8fbd3.jpg",
+    "static/media/home3.jpg": "/static/media/home3.4168482f132df432d55a.jpg",
+    "static/media/logo.png": "/static/media/logo.81af169cd7ab6bd1902c.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.68c7fbdf.css.map": "/static/css/main.68c7fbdf.css.map",
+    "main.c11f839c.js.map": "/static/js/main.c11f839c.js.map",
+    "453.8562dc00.chunk.js.map": "/static/js/453.8562dc00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c7fbdf.css",
+    "static/js/main.c11f839c.js"
+  ]
+}
