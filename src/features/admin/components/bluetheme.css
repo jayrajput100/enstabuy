@@ -1,0 +1,43 @@
+/* Define Blue-Themed CSS */
+.blue-theme {
+    --primary-color: #3b82f6; /* Define primary blue color */
+    --secondary-color: #93c5fd; /* Define secondary light blue color */
+    --hover-color: #2563eb; /* Define hover blue color */
+  }
+  
+  /* Apply blue theme to input fields */
+  .blue-theme input,
+  .blue-theme select,
+  .blue-theme textarea {
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+    transition: border-color 0.2s ease-in-out;
+  }
+  
+  .blue-theme input:focus,
+  .blue-theme select:focus,
+  .blue-theme textarea:focus {
+    border-color: var(--hover-color);
+    outline: none;
+  }
+  
+  /* Apply blue theme to labels */
+  .blue-theme label {
+    color: var(--primary-color);
+  }
+  
+  /* Apply blue theme to buttons */
+  .blue-theme button {
+    background-color: var(--primary-color);
+    color: white;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .blue-theme button:hover {
+    background-color: var(--hover-color);
+  }
+  .big-header {
+    font-size: 2cm;
+    color: var(--hover-color); /* Adjust as needed */
+  }
+  
